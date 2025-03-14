@@ -5,11 +5,11 @@
       <div class="services-block">
         <h2>🚀 Мои услуги:</h2>
         <ul class="services-list">
-          <li><strong>Python разработка</strong>: Телеграм боты, парсеры, скрипты</li>
-          <li><strong>Frontend</strong>: Разработка на Nuxt.js, Vue.js</li>
-          <li><strong>Backend</strong>: Laravel, PHP, JavaScript, API-интеграции</li>
-          <li><strong>Поддержка сайтов</strong>: Vue.js, Nuxt.js, Laravel Filament, Opencart, October CMS, 1С-Битрикс, WordPress</li>
-          <li><strong>Сервер</strong>: Настройка серверного ПО, администрирование Linux</li>
+          <li><strong style="color: #f9f978">Python разработка</strong>: Телеграм боты, парсеры, скрипты</li>
+          <li><strong style="color: #2bff80">Frontend</strong>: Разработка на Nuxt.js, Vue.js</li>
+          <li><strong style="color: #2bff80">Backend</strong>: Laravel, PHP, JavaScript, API-интеграции</li>
+          <li><strong style="color: #ff5555">Поддержка сайтов</strong>: Vue.js, Nuxt.js, Laravel Filament, Opencart, October CMS, 1С-Битрикс, WordPress</li>
+          <li><strong style="color: #ff5555">Сервер</strong>: Настройка серверного ПО, администрирование Linux</li>
         </ul>
         <p>Готов к сотрудничеству! 💻🔥</p>
         <a href="https://t.me/idev2022" target="_blank" class="telegram-button">
