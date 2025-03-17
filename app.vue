@@ -9,7 +9,6 @@
           <li><strong style="color: #2bff80">Frontend</strong>: Разработка на Nuxt.js, Vue.js</li>
           <li><strong style="color: #2bff80">Backend</strong>: Laravel, PHP, JavaScript, API-интеграции</li>
           <li><strong style="color: #ff5555">Поддержка сайтов</strong>: Vue.js, Nuxt.js, Laravel Filament, Opencart, October CMS, 1С-Битрикс, WordPress</li>
-          <li><strong style="color: #ff5555">Сервер</strong>: Настройка серверного ПО, администрирование Linux</li>
         </ul>
         <p>Готов к сотрудничеству! 💻🔥</p>
         <a href="https://t.me/idev2022" target="_blank" class="telegram-button">
