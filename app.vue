@@ -3,7 +3,7 @@
     <NuxtRouteAnnouncer />
     <div class="container">
       <div class="services-block">
-        <h2>🚀 Мои услуги:</h2>
+        <h2>🚀 Мои услуги: DEV</h2>
         <ul class="services-list">
 
           <li><strong style="color: #f9f978">Python разработка</strong>: Телеграм боты, парсеры, скрипты</li>
